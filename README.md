@@ -1,5 +1,3 @@
-# grailsinfo
-
 grails-sql-debugging
 
 http://stackoverflow.com/questions/2568507/how-to-log-sql-statements-in-grails
@@ -122,4 +120,26 @@ http://www.apple.com/shop/product/HHSP2ZM/B/belkin-usb-c-to-usb-a-charge-cable#
 http://www.apple.com/shop/product/HHSP2ZM/B/belkin-usb-c-to-usb-a-charge-cable#
 
 http://www.apple.com/shop/product/HHSP2ZM/B/belkin-usb-c-to-usb-a-charge-cable#
+
+http://www.autoomobile.com/news/google-nexus-6p-complaints-just-keep-on-coming/40027686/
+
+http://toucharcade.com/2016/03/30/disney-abandons-disney-infinity-3-0-for-apple-tv/
+
+grails mysql runtime dependency
+
+https://grails.github.io/grails-doc/latest/ref/Plug-ins/dataSource.html
+
+http://grails.asia/add-mysql-driver-jar-to-a-grails-project-using-buildconfig
+
+https://grails.org/plugin/mysql-connectorj
+
+http://stackoverflow.com/questions/31764922/how-to-connect-grails-3-0-to-my-local-mysql-database
+
+http://grails.github.io/grails-doc/latest/guide/conf.html#dataSourcesAndEnvironments
+
+http://www.zdnet.com/article/microsoft-cozies-up-to-ubuntu-as-developers-welcome-cold-day-in-hell/
+
+http://www.zdnet.com/article/microsoft-cozies-up-to-ubuntu-as-developers-welcome-cold-day-in-hell/
+
+
 
