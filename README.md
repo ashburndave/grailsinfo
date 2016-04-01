@@ -141,5 +141,9 @@ http://www.zdnet.com/article/microsoft-cozies-up-to-ubuntu-as-developers-welcome
 
 http://www.zdnet.com/article/microsoft-cozies-up-to-ubuntu-as-developers-welcome-cold-day-in-hell/
 
+https://gist.github.com/steinwaywhw/ff46c692a50c8dd4cdc3
+
+http://grails-dev.blogspot.com/2012/09/setting-up-log4j-configuration-in.html
+
 
 
