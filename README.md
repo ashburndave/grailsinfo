@@ -145,5 +145,15 @@ https://gist.github.com/steinwaywhw/ff46c692a50c8dd4cdc3
 
 http://grails-dev.blogspot.com/2012/09/setting-up-log4j-configuration-in.html
 
+http://www.ntu.edu.sg/home/ehchua/programming/java/JavaServlets.html
+
+http://www.ntu.edu.sg/home/ehchua/programming/howto/EclipseJava_HowTo.html#EclipseWebapp
+
+http://www.ntu.edu.sg/home/ehchua/programming/howto/NetBeans_HowTo.html#NetBeans_WebApp
+
+https://java.com/en/download/faq/release_dates.xml
+
+https://eclipse-che.readme.io/docs/rest-api
+
 
 
