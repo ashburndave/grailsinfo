@@ -151,9 +151,38 @@ http://www.ntu.edu.sg/home/ehchua/programming/howto/EclipseJava_HowTo.html#Eclip
 
 http://www.ntu.edu.sg/home/ehchua/programming/howto/NetBeans_HowTo.html#NetBeans_WebApp
 
+https://www.ntu.edu.sg/home/ehchua/programming/howto/Tomcat_HowTo.html
+
 https://java.com/en/download/faq/release_dates.xml
 
 https://eclipse-che.readme.io/docs/rest-api
 
+http://www.avajava.com/tutorials/lessons/how-do-i-compile-my-project-using-ant.html
+
+http://www.avajava.com/tutorials/lessons/how-do-i-compile-my-project-using-ant.html?page=2
+
+http://stackoverflow.com/questions/21765334/ant-build-script-not-running-for-java-servlet-class
+
+http://www.java2s.com/Code/Jar/j/Downloadjavaxservlet30jar.htm
+
+http://www.findjar.com/class/javax/servlet/http/HttpServletRequest.html
+
+https://www.raspberrypi.org/documentation/hardware/raspberrypi/README.md
+
+https://www.element14.com/community/community/raspberry-pi
+
+https://docs.oracle.com/javase/tutorial/deployment/jar/packageman.html
+
+http://stackoverflow.com/questions/5331267/springsource-tool-suite-sts-how-to-run-server-and-java-project-through-the-id
+
+http://www.ibm.com/developerworks/library/os-eclipse-tomcat/index.html
+
+http://static.springsource.com/projects/tc-server/2.1/getting-started/html/ch06s02.html
+
+http://static.springsource.com/projects/tc-server/2.1/getting-started/html/ch06s02.html
+
+http://www.programmingforliving.com/2012/08/vmware-vfabric-tc-server-setup-in.html
+
+https://sosiouxme.wordpress.com/2012/04/06/the-missing-guide-to-creating-and-modifying-tc-server-instances-for-sts/
 
 
