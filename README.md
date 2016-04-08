@@ -14,10 +14,6 @@ http://burtbeckwith.com/blog/?p=1654
 
 http://grails-dev.blogspot.com/2013/06/how-to-log-sql-statements-in-grails.html
 
-http://grails-dev.blogspot.com/2013/06/how-to-log-sql-statements-in-grails.html
-
-http://grails-dev.blogspot.com/2013/06/how-to-log-sql-statements-in-grails.html
-
 http://www.javaworld.com/article/2072799/grails-hip-tip--logging-sql.html
 
 http://margotskapacs.com/2013/01/log-and-debug-gorm/
@@ -25,12 +21,10 @@ http://margotskapacs.com/2013/01/log-and-debug-gorm/
 http://pritomkumar.blogspot.com/2014/05/logging-hibernate-sql-in-grails.html
 
 http://www.jellyfishtechnologies.com/grails-loggingprinting-native-sql-queries/
+
 http://www.mkyong.com/hibernate/how-to-display-hibernate-sql-parameter-values-log4j/
 
 https://grails.org/plugin/runtime-logging
-
-
-
 
 http://mrhaki.blogspot.com/2014/03/grails-goodness-multiple-bootstraps.html
 
@@ -38,22 +32,15 @@ http://www.jellyfishtechnologies.com/grails-goodness-multiple-bootstraps-file/
 
 https://grails.org/wiki/Bootstrap%20Classes
 
-
-
-
 http://stackoverflow.com/questions/21101903/how-to-create-objects-with-multiple-relationships-in-bootstrap-groovy-init
 
 https://grails.org/tutorial/31
-
-
 
 http://www.jellyfishtechnologies.com/change-mysql-password/
 
 http://stackoverflow.com/questions/9581745/sql-is-null-and-null
 
 http://stackoverflow.com/questions/4350678/git-diff-w-ignore-whitespace-only-at-start-end-of-lines
-
-https://blogs.oracle.com/theaquarium/entry/self_documented_services_using_jax?elq_mid=42729&sh=232651823191215252297121315147770&cmid=WWMK15020783MPP039C007
 
 http://grails.github.io/grails-doc/2.5.3/
 
@@ -117,10 +104,6 @@ http://www.amazon.com/Belkin-Chromebook-MacBook-Compatible-Devices/dp/B00WJSPFOW
 
 http://www.apple.com/shop/product/HHSP2ZM/B/belkin-usb-c-to-usb-a-charge-cable#
 
-http://www.apple.com/shop/product/HHSP2ZM/B/belkin-usb-c-to-usb-a-charge-cable#
-
-http://www.apple.com/shop/product/HHSP2ZM/B/belkin-usb-c-to-usb-a-charge-cable#
-
 http://www.autoomobile.com/news/google-nexus-6p-complaints-just-keep-on-coming/40027686/
 
 http://toucharcade.com/2016/03/30/disney-abandons-disney-infinity-3-0-for-apple-tv/
@@ -136,8 +119,6 @@ https://grails.org/plugin/mysql-connectorj
 http://stackoverflow.com/questions/31764922/how-to-connect-grails-3-0-to-my-local-mysql-database
 
 http://grails.github.io/grails-doc/latest/guide/conf.html#dataSourcesAndEnvironments
-
-http://www.zdnet.com/article/microsoft-cozies-up-to-ubuntu-as-developers-welcome-cold-day-in-hell/
 
 http://www.zdnet.com/article/microsoft-cozies-up-to-ubuntu-as-developers-welcome-cold-day-in-hell/
 
@@ -179,10 +160,11 @@ http://www.ibm.com/developerworks/library/os-eclipse-tomcat/index.html
 
 http://static.springsource.com/projects/tc-server/2.1/getting-started/html/ch06s02.html
 
-http://static.springsource.com/projects/tc-server/2.1/getting-started/html/ch06s02.html
-
 http://www.programmingforliving.com/2012/08/vmware-vfabric-tc-server-setup-in.html
 
 https://sosiouxme.wordpress.com/2012/04/06/the-missing-guide-to-creating-and-modifying-tc-server-instances-for-sts/
 
+http://www.javaworld.com/article/2074257/core-java/accessing-package-version-information-in-java-code.html
+
+https://ant.apache.org/manual/Tasks/war.html
 
